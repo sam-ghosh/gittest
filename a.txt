@@ -3,3 +3,5 @@ This is file 1 first commit
 some change for second commit on main
 
 new change1 for master
+
+new change 2 for master
