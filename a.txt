@@ -2,6 +2,12 @@ This is file 1 first commit
 
 some change for second commit on main
 
+
 new change1 for master
 
-new change 2 for master
+
+
+
+new change#2 in newbranch
+
+kept change 1 for master, 2 for newbranch
